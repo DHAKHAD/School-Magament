@@ -1,4 +1,5 @@
 #  School Management Dashboard
+![alt text](public/calendar.png)
 
 ## Getting Started
 
