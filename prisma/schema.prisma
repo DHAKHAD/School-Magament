@@ -51,6 +51,7 @@ model Teacher {
   lessons   Lesson[]
   classes   Class[]
   birthday  DateTime
+ password   String?
 }
 
 model Parent {
